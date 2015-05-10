@@ -57,5 +57,5 @@ Some details of our early work can be found in this paper:
 				<b>Keywords:</b> Social Learning Analytics, Connected learning, Semantic Technologies, xAPI, mathematical modelling
 			</p>
 			<p>
-				If you want to find out more then you can download the project proposal <a href="papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
+				If you want to find out more then you can download the project proposal <a href="../assets/papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
 			</p>
