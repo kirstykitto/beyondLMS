@@ -5,10 +5,20 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://username.github.io</link>
         <link>http://username.github.io</link>
-        <lastBuildDate>2015-05-10T17:55:53+10:00</lastBuildDate>
-        <pubDate>2015-05-10T17:55:53+10:00</pubDate>
+        <lastBuildDate>2015-05-26T14:40:34+10:00</lastBuildDate>
+        <pubDate>2015-05-26T14:40:34+10:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>First test post for BeyondLMS</title>
+                <description>
+&lt;p&gt;This is a test post for BeyondLMS.&lt;/p&gt;
+</description>
+                <link>http://username.github.io/test/26/05/2015/new-post</link>
+                <guid>http://username.github.io/test/26/05/2015/new-post</guid>
+                <pubDate>2015-05-26T00:00:00+10:00</pubDate>
+        </item>
 
 
 </channel>

@@ -1,14 +1,20 @@
 
 http://username.github.io/pages/about.html
+http://username.github.io/pages/addyourrecipe.html
 http://username.github.io/archive.html
 http://username.github.io/atom.xml
 http://username.github.io/categories.html
 http://username.github.io/pages/clatoolkit.html
+http://username.github.io/pages/clrecipe.html
 http://username.github.io/pages/communities.html
 http://username.github.io/pages/includemytool.html
 http://username.github.io/index.html
 http://username.github.io/pages/lrs.html
+http://username.github.io/new-page.html
 http://username.github.io/pages.html
+http://username.github.io/pages/pedagogical-approaches.html
 http://username.github.io/rss.xml
 http://username.github.io/sitemap.txt
 http://username.github.io/tags.html
+
+http://username.github.io/test/26/05/2015/new-post

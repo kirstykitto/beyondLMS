@@ -4,13 +4,23 @@
  <title>Beyond LMS</title>
  <link href="http://username.github.io/" rel="self"/>
  <link href="http://username.github.io"/>
- <updated>2015-05-10T17:55:53+10:00</updated>
+ <updated>2015-05-26T14:40:34+10:00</updated>
  <id>http://username.github.io</id>
  <author>
    <name>Beyond LMS</name>
    <email>kirsty.kitto@qut.edu.au</email>
  </author>
 
+ 
+ <entry>
+   <title>First test post for BeyondLMS</title>
+   <link href="http://username.github.io/test/26/05/2015/new-post"/>
+   <updated>2015-05-26T00:00:00+10:00</updated>
+   <id>http://username.github.io/test/26/05/2015/new-post</id>
+   <content type="html">
+&lt;p&gt;This is a test post for BeyondLMS.&lt;/p&gt;
+</content>
+ </entry>
  
  
 </feed>

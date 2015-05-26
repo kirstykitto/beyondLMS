@@ -17,11 +17,5 @@ tagline: Learning Beyond the LMS
   More information will appear as we go, but for now, you might want to check out our first set of pages which introduce the <a href="..pages/clatoolkit.html">Connected Learning Analytics Toolkit</a>.
 </p>
 
-#####Recent Posts
 
-<ul class="posts">
-  {% for post in site.posts %}
-  <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
 
