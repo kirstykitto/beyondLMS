@@ -5,7 +5,19 @@ description: ""
 ---
 {% include JB/setup %}
 
-
+<div class="sidebarnav">
+	<h6>CLA Toolkit</h6>
+	<ul>
+		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
+		<li><a href="/pages/#.html">OLT Project Participants</a></li>
+		<li><a href="/pages/addyourrecipe.html">Add Your Recipe</a></li>
+	</ul>
+	<h6>Project Team</h6>
+	<ul>
+		<li><a href="/pages/clrecipe.html">Name 1</a></li>
+		<li><a href="/pages/#.html">Name 2</a></li>
+	</ul>
+</div>
 <p> 
 	<a href="http://connectedlearning.tv/infographicv">Connected Learning</a> is a modern pedagogical approach holding that knowledge and learning is distributed across a social, conceptual network. It holds that when people forge, negotiate and nurture connections for themselves (between people, information, knowledge, ideas and concepts), learning is more powerful and sustainable.
 </p>
