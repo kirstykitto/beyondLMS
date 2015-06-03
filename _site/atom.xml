@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Beyond LMS</title>
- <link href="http://username.github.io/" rel="self"/>
- <link href="http://username.github.io"/>
- <updated>2015-05-29T09:35:57+10:00</updated>
- <id>http://username.github.io</id>
+ <link href="http://beyondlms.org/" rel="self"/>
+ <link href="http://beyondlms.org"/>
+ <updated>2015-06-03T15:13:52+10:00</updated>
+ <id>http://beyondlms.org</id>
  <author>
    <name>Beyond LMS</name>
    <email>kirsty.kitto@qut.edu.au</email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>From Data to Visualisation</title>
-   <link href="http://username.github.io/blog/18/05/2015/UTSworkshop"/>
+   <link href="http://beyondlms.org/blog/18/05/2015/UTSworkshop"/>
    <updated>2015-05-18T00:00:00+10:00</updated>
-   <id>http://username.github.io/blog/18/05/2015/UTSworkshop</id>
+   <id>http://beyondlms.org/blog/18/05/2015/UTSworkshop</id>
    <content type="html">
 
 &lt;p&gt;

@@ -197,9 +197,9 @@ p, dl{
   position: absolute;
   z-index: 10;
   float: left;
-  left: -180px;
+  left: -210px;
   top: 0px;
-  width:150px;
+  width:180px;
   background-color: #fff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */
@@ -217,9 +217,9 @@ p, dl{
   position: absolute;
   z-index: 10;
   float: left;
-  right: -180px;
+  right: -210px;
   top: 0px;
-  width:150px;
+  width:180px;
   background-color: #fff;
   padding: 20px;
   margin: 0 -20px; /* negative indent the amount of the padding to maintain the grid system */

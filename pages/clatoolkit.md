@@ -18,6 +18,7 @@ description: ""
 		<li><a href="/pages/#.html">Name 2</a></li>
 	</ul>
 </div>
+
 <p> 
 	<a href="http://connectedlearning.tv/infographicv">Connected Learning</a> is a modern pedagogical approach holding that knowledge and learning is distributed across a social, conceptual network. It holds that when people forge, negotiate and nurture connections for themselves (between people, information, knowledge, ideas and concepts), learning is more powerful and sustainable.
 </p>
