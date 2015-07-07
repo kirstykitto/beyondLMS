@@ -8,9 +8,11 @@ description: ""
 <div class="sidebarnav">
 	<h6>CLA Toolkit</h6>
 	<ul>
-		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 		<li><a href="/pages/OLTparticipants.html">OLT Project Participants</a></li>
+		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 	</ul>
+	
+        <a class="twitter-timeline" href="https://twitter.com/hashtag/clatoolkit" data-widget-id="605959017777631234" data-chrome="noscrollbar noborders nofooter" data-tweet-limit="1">#clatoolkit Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 
 <p> 
