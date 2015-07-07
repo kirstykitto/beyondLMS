@@ -6,22 +6,10 @@ description: ""
 {% include JB/setup %}
 
 <div class="sidebarnav">
-	<h6>CLA Toolkit</h6>
-	<ul>
-		<li>Queensland University of Technology<br>
-			Kirsty Kitto<br>
-			Mandy Lupto<br>
-			John Banks<br>
-			Dann Mallet<br>
-			Peter Bruza<br>
-		</li>
-		<li>University of South Autralia<br>
-			Shane Dawson
-			Dragan Gasevic
-		</li>
-	</ul>
+
 	<h6>CLA Toolkit Pages</h6>
 	<ul>
+		<li><a href="/pages/OLTparticipants.html">Project Participants</a></li>
 		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 	</ul>
 
