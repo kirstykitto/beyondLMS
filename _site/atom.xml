@@ -4,7 +4,7 @@
  <title>Beyond LMS</title>
  <link href="http://beyondlms.org/" rel="self"/>
  <link href="http://beyondlms.org"/>
- <updated>2015-06-03T15:13:52+10:00</updated>
+ <updated>2015-07-08T07:47:06+10:00</updated>
  <id>http://beyondlms.org</id>
  <author>
    <name>Beyond LMS</name>
@@ -51,7 +51,7 @@
 			&lt;p&gt;
 				First we got &lt;a href=&quot;http://www.ht2.co.uk/ben/&quot;&gt;Ben Betts&lt;/a&gt; from &lt;a href=&quot;http://ht2.co.uk/&quot;&gt;HT2&lt;/a&gt; to give us an introduction to &lt;a href=&quot;http://www.curatr3.com/&quot;&gt;Curatr&lt;/a&gt; and his conception of Personal Learning Record Stores based upon &lt;a href=&quot;http://www.learninglocker.org/&quot;&gt;Learning Locker&lt;/a&gt;. 
 
-			&lt;!-- &lt;iframe src = &quot;/ViewerJS/#../slides/*.pdf&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt; --&gt;
+			&lt;iframe src = &quot;/ViewerJS/#../assets/slides/BenTalk.pdf&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
 
 			&lt;/p&gt;
 			&lt;p&gt;
