@@ -31,6 +31,7 @@ description: ""
 		If you want to find out more then you can download the project proposal <a href="../assets/papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
 	</p>
 
+	<img src="../assets/images/QUT_Logo_2Lines_CMYK.jpg" alt="QUT" border="5">
 	<h5>Queensland University of Technology</h5>
 	<ul>
 		<li>Lead: <a href="http://users.on.net/~kirsty.kitto/">Kirsty Kitto</a></li>
