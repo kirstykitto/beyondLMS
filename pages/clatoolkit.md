@@ -8,10 +8,23 @@ description: ""
 <div class="sidebarnav">
 	<h6>CLA Toolkit</h6>
 	<ul>
-		<li><a href="/pages/OLTparticipants.html">OLT Project Participants</a></li>
+		<li>Queensland University of Technology<br>
+			Kirsty Kitto<br>
+			Mandy Lupto<br>
+			John Banks<br>
+			Dann Mallet<br>
+			Peter Bruza<br>
+		</li>
+		<li>University of South Autralia<br>
+			Shane Dawson
+			Dragan Gasevic
+		</li>
+	</ul>
+	<h6>CLA Toolkit Pages</h6>
+	<ul>
 		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 	</ul>
-	
+
         <a class="twitter-timeline" href="https://twitter.com/hashtag/clatoolkit" data-widget-id="605959017777631234" data-chrome="noscrollbar noborders nofooter" data-tweet-limit="1">#clatoolkit Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </div>
 
@@ -34,7 +47,7 @@ description: ""
 		<li>Twitter</li>    
 		<li>Facebook</li>
 	</ul>	   
-	<!--You can try them out with a quick  out at <a href="">this page</a>.-->
+	They are due to be rolled out at QUT with a couple of trial classes starting in late July 2015 - watch this space! 
 </p>
 <p>
 	We have more tools in development that interface with:
@@ -46,25 +59,28 @@ description: ""
 	</ul>
 	we will update this list as everything develops.
 </p>
+
+<h2>Source Code</h2>
 <p>If you want to go and check out the source code, then it is available on <a href="https://github.com/kirstykitto/CLAtoolkit">GitHub</a>, along with a  <a href="https://github.com/kirstykitto/CLRecipe">Connected Learning Recipe</a> that we are currently working on.
 </p>
-Some details of our early work can be found in this paper: 
+<h2>Publications</h2>
 <ul>
 	<li> K. Kitto, S. Cross, Z. Waters & M. Lupton. <a href="http://dl.acm.org/citation.cfm?id=2723627">Learning Analytics beyond the LMS: the Connected Learning Analytics Toolkit</a>.  In Proceedings of the Fifth International Conference on Learning Analytics And Knowledge (LAK '15).  ACM, New York, NY, USA, 11-15. (See the free eprint <a href="http://eprints.qut.edu.au/81343/">here</a>.)
-	</ul>
-	<p class="lead">Scaling up</p>
-	<p>This work has been funded by the Australian Government's Office for Learning and Teaching (OLT). 
-		<p><b>ID14-3821:Enabling connected learning via open source analytics in the wild: learning analytics beyond the LMS</b><br>
+	</li>
+</ul>
+<h2>Current Funding</h2>
+<p>This work has been funded by the Australian Government's Office for Learning and Teaching (OLT). 
+	<p><b>ID14-3821:Enabling connected learning via open source analytics in the wild: learning analytics beyond the LMS</b><br>
 			Office for Learning and Teaching, $320,000 over 2 years (2015-2017)<br>
 			Lead institution: Queensland University of Technology<br>
 			Partner institutions: University of South Australia; University of Technology, Sydney; University of Sydney, University of Texas, Arlington<br>
 			Team: Kirsty Kitto (Lead), Mandy Lupton, John Banks, Dann Mallet, Peter Bruza (QUT)<br>
 			Shane Dawson, Dragan Gasevic (UniSA); Simon Buckingham Shum (UTS); Abelardo Pardo (Uni Sydney); George Siemens (Uni Texas, Arlington).
-			<p>
-				This project aims to improve the quality of student engagement and learning in collaborative online environments by incorporating and analysing social media platforms that students already use. It will create an easy to use and open source Connected Learning Analytics (CLA) toolkit utilising the latest mathematical and computational approaches, grounded in connected learning pedagogy.
-				<br>
-				<b>Keywords:</b> Social Learning Analytics, Connected learning, Semantic Technologies, xAPI, mathematical modelling
-			</p>
-			<p>
-				If you want to find out more then you can download the project proposal <a href="../assets/papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
-			</p>
+	<p>
+		This project aims to improve the quality of student engagement and learning in collaborative online environments by incorporating and analysing social media platforms that students already use. It will create an easy to use and open source Connected Learning Analytics (CLA) toolkit utilising the latest mathematical and computational approaches, grounded in connected learning pedagogy.
+		<br>
+		<b>Keywords:</b> Social Learning Analytics, Connected learning, Semantic Technologies, xAPI, mathematical modelling
+	</p>
+	<p>
+		If you want to find out more then you can download the project proposal <a href="../assets/papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
+	</p>
