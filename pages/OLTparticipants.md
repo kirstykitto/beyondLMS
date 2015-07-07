@@ -22,8 +22,6 @@ description: ""
 			Office for Learning and Teaching, $320,000 over 2 years (2015-2017)<br>
 			Lead institution: Queensland University of Technology<br>
 			Partner institutions: University of South Australia; University of Technology, Sydney; University of Sydney, University of Texas, Arlington<br>
-			Team: Kirsty Kitto (Lead), Mandy Lupton, John Banks, Dann Mallet, Peter Bruza (QUT)<br>
-			Shane Dawson, Dragan Gasevic (UniSA); Simon Buckingham Shum (UTS); Abelardo Pardo (Uni Sydney); George Siemens (Uni Texas, Arlington).
 	<p>
 		This project aims to improve the quality of student engagement and learning in collaborative online environments by incorporating and analysing social media platforms that students already use. It will create an easy to use and open source Connected Learning Analytics (CLA) toolkit utilising the latest mathematical and computational approaches, grounded in connected learning pedagogy.
 		<br>
@@ -53,10 +51,10 @@ description: ""
 	</ul>
 	<h5>University of Sydney</h5>
 	<ul>
-		<li>Abelardo Pardo</li>
+		<li><a hrerf="https://latte.ee.usyd.edu.au/">Abelardo Pardo</a></li>
 	</ul>
 	<h5>University of Texas, Arlington</h5>
 	<ul>
-		<li>George Siemens</li>
+		<li><a href="http://www.elearnspace.org/blog/">George Siemens</a></li>
 	</ul>
 
