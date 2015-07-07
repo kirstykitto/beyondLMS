@@ -6,7 +6,7 @@ description: ""
 {% include JB/setup %}
 
 <p>
-	So.. you have something you would like to contribute? We require that pages hosted on this site satisfy the following requirements:
+	So.. you have something you would like to contribute? We will help you write a page for it if you like, as long as it satisfies  the following requirements:
 	<ol>
 		<li> It must function without any form of dependency upon a LMS.</li>
 		<li> It must be demonstrably open source.</li>
@@ -14,7 +14,7 @@ description: ""
 	</ol>
 </p>
 <p>
-	If you believe that your tool satisfies these requirements, then we have a <a href="https://github.com/kirsty.kitto/beyondLMS">GitHub repository</a> from which we manage these pages. If you would like to have your tool included on the pages then you should submit a pull request by:
+	If you believe that your tool satisfies these requirements, then we have a <a href="https://github.com/kirsty.kitto/beyondLMS">GitHub repository</a> from which we manage these pages. You can either <a href="/pages/contact.html">contact us</a> and we will help you to create a page, or if you are familiar with Github pages then you can go straight to the source code and edit it yourself. You should submit a pull request by:
 	<ol>
 		<li>
 			Forking the repository (<a href="https://github.com/kirsty.kitto/beyondLMS">https://github.com/kirsty.kitto/beyondLMS</a>)

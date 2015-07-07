@@ -40,8 +40,8 @@ description: ""
 <p>
 	We harvest data using standard social media APIs, and currently have tools that collect data for:
 	<dl>
-		<dt>Twitter:</dt> Students sign up to having their data harvested for a specific Twitter hashtag related to a learning activity. Then their tweets to this hashtag will be captured by the CLA toolkit.
-		<dt>Facebook:</dt> Students sign up to having their data harvested for a specific Facebook group where they will be meeting online as a part of their learning.
+		<dt>Twitter</dt> Students sign up to having their data harvested for a specific Twitter hashtag related to a learning activity. Then their tweets to this hashtag will be captured by the CLA toolkit.
+		<dt>Facebook</dt> Students sign up to having their data harvested for a specific Facebook group where they will be meeting online as a part of their learning.
 	</dl>	   
 	These tools are due to be rolled out at QUT with a couple of trial classes starting in late July 2015 - watch this space! (We will <a href="/archive.html">blog</a> about this as we go.)
 </p>
