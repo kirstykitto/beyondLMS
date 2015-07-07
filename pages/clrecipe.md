@@ -5,6 +5,17 @@ description: ""
 ---
 {% include JB/setup %}
 
+<div class="sidebarnav">
+
+	<h6>CLA Toolkit Pages</h6>
+	<ul>
+		<li><a href="/pages/OLTparticipants.html">Project Participants</a></li>
+		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
+	</ul>
+
+        <a class="twitter-timeline" href="https://twitter.com/hashtag/clatoolkit" data-widget-id="605959017777631234" data-chrome="noscrollbar noborders nofooter" data-tweet-limit="1">#clatoolkit Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
 xAPI provides an extremely flexible way of representing events that can be saved to a Learning Record Store (LRS). The introduction of xAPI has been a great step forward for learning analytics because it allows a variety of events that originate from different systems to be tracked. The trouble with anything that is flexible is that there may be multiple ways to represent and track the same type of event and this has implications for building analytics tools that work across LRS installations. The community solution has been to design and share event representations as recipes. A recipe prescribes the structure for an xAPI and is made publically available via the Recipe Registry.
 
 The Connected Learning Analytics (CLA) Toolkit is concerned with providing analytics for learning activities that occur outside of the traditional Learning Management System (LMS). The CLA Toolkit will allow teaching staff to import student interactions from social media platforms (e.g. Twitter, Facebook Groups, etc) into an LRS and provide advanced analytics. One of the first steps along this path has been to design an xAPI recipe for social media. The technical elements of the design decisions made in building the recipe have all been transparent and open for community feedback and contribution on the [CLRecipe Github site]( https://github.com/kirstykitto/CLRecipe).
