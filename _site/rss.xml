@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
- 
- <title>Beyond LMS</title>
- <link href="http://beyondlms.org/" rel="self"/>
- <link href="http://beyondlms.org"/>
- <updated>2015-07-08T09:05:47+10:00</updated>
- <id>http://beyondlms.org</id>
- <author>
-   <name>Beyond LMS</name>
-   <email>kirsty.kitto@qut.edu.au</email>
- </author>
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+        <title>Beyond LMS</title>
+        <description>Beyond LMS - Beyond LMS</description>
+        <link>http://beyondlms.org</link>
+        <link>http://beyondlms.org</link>
+        <lastBuildDate>2015-07-08T09:05:47+10:00</lastBuildDate>
+        <pubDate>2015-07-08T09:05:47+10:00</pubDate>
+        <ttl>1800</ttl>
 
- 
- <entry>
-   <title>QUT Workshop - Sign-up and requirements elicitation</title>
-   <link href="http://beyondlms.org/blog/02/07/2015/QUTworkshop"/>
-   <updated>2015-07-02T00:00:00+10:00</updated>
-   <id>http://beyondlms.org/blog/02/07/2015/QUTworkshop</id>
-   <content type="html">
+
+        <item>
+                <title>QUT Workshop - Sign-up and requirements elicitation</title>
+                <description>
 &lt;p&gt;
 	In &lt;a href=&quot;2015-5-18-UTSworkshop.html&quot;&gt;my last blog&lt;/a&gt; &lt;a href=&quot;http://users.on.net/~kirsty.kitto/&quot;&gt;I&lt;/a&gt; wrote about moving the LA conversation towards a more complex form of analytics. I claimed that I had some pretty good ideas about how to jumpstart the conversation into a position where people really start imagining what is possible.. beyond simple counts and the identification of at risk students.  On 2nd July we held our second workshop, this time at QUT. 
 &lt;/p&gt;
@@ -57,15 +52,15 @@
 
 
 
-</content>
- </entry>
- 
- <entry>
-   <title>From Data to Visualisation</title>
-   <link href="http://beyondlms.org/blog/18/05/2015/UTSworkshop"/>
-   <updated>2015-05-18T00:00:00+10:00</updated>
-   <id>http://beyondlms.org/blog/18/05/2015/UTSworkshop</id>
-   <content type="html">
+</description>
+                <link>http://beyondlms.org/blog/02/07/2015/QUTworkshop</link>
+                <guid>http://beyondlms.org/blog/02/07/2015/QUTworkshop</guid>
+                <pubDate>2015-07-02T00:00:00+10:00</pubDate>
+        </item>
+
+        <item>
+                <title>From Data to Visualisation</title>
+                <description>
 
 &lt;p&gt;
 	How do you move the discussion about learning analytics forwards? Sometimes I feel like we are stuck in a rut that leads to the same conversation over and over again:
@@ -161,8 +156,12 @@
 
 
 
-</content>
- </entry>
- 
- 
-</feed>
+</description>
+                <link>http://beyondlms.org/blog/18/05/2015/UTSworkshop</link>
+                <guid>http://beyondlms.org/blog/18/05/2015/UTSworkshop</guid>
+                <pubDate>2015-05-18T00:00:00+10:00</pubDate>
+        </item>
+
+
+</channel>
+</rss>

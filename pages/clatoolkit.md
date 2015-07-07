@@ -9,6 +9,8 @@ description: ""
 
 	<h6>CLA Toolkit Pages</h6>
 	<ul>
+
+		<li><a href="/pages/clatoolkit.html">CLA Toolkit</a></li>
 		<li><a href="/pages/OLTparticipants.html">Project Participants</a></li>
 		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 	</ul>

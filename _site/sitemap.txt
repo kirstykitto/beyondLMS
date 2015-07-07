@@ -1,13 +1,13 @@
 
 http://beyondlms.org/pages/OLTparticipants.html
 http://beyondlms.org/pages/about.html
-http://beyondlms.org/pages/addyourrecipe.html
 http://beyondlms.org/archive.html
 http://beyondlms.org/atom.xml
 http://beyondlms.org/categories.html
 http://beyondlms.org/pages/clatoolkit.html
 http://beyondlms.org/pages/clrecipe.html
 http://beyondlms.org/pages/communities.html
+http://beyondlms.org/pages/contact.html
 http://beyondlms.org/pages/includemytool.html
 http://beyondlms.org/index.html
 http://beyondlms.org/pages/lrs.html

@@ -9,6 +9,8 @@ description: ""
 
 	<h6>CLA Toolkit Pages</h6>
 	<ul>
+
+		<li><a href="/pages/clatoolkit.html">CLA Toolkit</a></li>
 		<li><a href="/pages/OLTparticipants.html">Project Participants</a></li>
 		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 	</ul>
@@ -23,9 +25,11 @@ The Connected Learning Analytics (CLA) Toolkit is concerned with providing analy
 While designing an xAPI recipe falls in the technical realm of data modelling, the team focus has really been to get an accurate representation of interactions that occur on social media platform and ensure that tracked data can easily be retrieved for advanced analytics such as social network analysis and content analysis (e.g., Cognitive Presence classification).  Moving beyond the LMS also means moving beyond simplistic aggregate counts of activity!
 
 In summary the CLRecipe project:
-*  provides common terminology for working with multiple social media platforms (e.g., Facebook Like and Twitter Favorite are both mapped to Like).
-*  provides an xAPI Recipe for building xAPI statement for modeling social media interactions that include the relationship between social media posts (i.e. reply, share, like, tag, rate, etc) so that advanced analytics (including content analysis and social network analysis) can be performed
-*  provides recipe examples for Microblogging, Content Authoring, Content Collaboration and Content Curation
+<ol>
+	<li>Provides common terminology for working with multiple social media platforms (e.g., Facebook Like and Twitter Favorite are both mapped to Like).</li>
+	<li>Provides an xAPI Recipe for building xAPI statement for modeling social media interactions that include the relationship between social media posts (i.e. reply, share, like, tag, rate, etc) so that advanced analytics (including content analysis and social network analysis) can be performed. </li>
+	<li>Provides recipe examples for Microblogging, Content Authoring, Content Collaboration and Content Curation.</li>
+</ol>
 
 Once the recipe stabilises, we’ll start providing examples of the type of analytics that can be provided for various types of learning activities that use different social media platforms and start to seek engagement from the learning design community. Lots more coming soon!
 

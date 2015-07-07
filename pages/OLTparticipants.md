@@ -9,6 +9,8 @@ description: ""
 
 	<h6>CLA Toolkit Pages</h6>
 	<ul>
+
+		<li><a href="/pages/clatoolkit.html">CLA Toolkit</a></li>
 		<li><a href="/pages/OLTparticipants.html">Project Participants</a></li>
 		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
 	</ul>
@@ -31,7 +33,7 @@ description: ""
 		If you want to find out more then you can download the project proposal <a href="../assets/papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
 	</p>
 
-	<img src="../assets/images/QUT_Logo_2Lines_CMYK.jpg" alt="QUT" width="150" border="5">
+	<img src="../assets/images/QUT_Logo_2Lines_CMYK.jpg" alt="QUT" width="200" border="5">
 	<h5>Queensland University of Technology</h5>
 	<ul>
 		<li>Lead: <a href="http://users.on.net/~kirsty.kitto/">Kirsty Kitto</a></li>
@@ -58,4 +60,5 @@ description: ""
 	<ul>
 		<li><a href="http://www.elearnspace.org/blog/">George Siemens</a></li>
 	</ul>
+	We have also recruited Grace Lynch as our critical friend, she will perform the final evaluation for this project.
 

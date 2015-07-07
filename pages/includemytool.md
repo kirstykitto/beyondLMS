@@ -23,7 +23,7 @@ description: ""
 			Cloning your forked repository
 		</li>
 		<li>
-			Adding a page discussing your tool and the necessary links (remember, all content on these pages is licensed under a Creative Commons Share Alike license). 
+			Adding a page discussing your tool and the necessary links (remember, all content on these pages is licensed under a Creative Commons Share Alike license - see the link below). 
 		</li>
 		<li>
 			Commit and make sure you check that your page compiles fine, and look how you want them to look.
@@ -33,11 +33,11 @@ description: ""
 		</li>
 	</ol>
 	<p>
-		If we are happy with the page, and agree that your tool satisfies our requirements then we will merge it into the main repository and your tool will be listed in our pages. We may ask you to change some stuff first to meet the <a href="">stylistic guidelines</a> of this site.
+		If we are happy with the page, and agree that your tool satisfies our requirements then we will merge it into the main repository and your tool will be listed in our pages. We may ask you to change some stuff first to meet the style of this site, if we are feeling nice we may even do it ourselves.
 	</p>
 </ol>
 </p>
 
 <p>
-	If you have a tool that does not satisfy satisfy the open source and CC requirements, but that you think helps people to teach beyond the LMS in some way, then contact us with a link to your tool and we will add it under the proprietary tools page if we agree with you.
+	If you have a tool that does not satisfy satisfy the open source and CC requirements, but that you think helps people to teach beyond the LMS in some way, then <a href="/pages/contact.html">contact us</a> with a link to your tool and we will add it under the proprietary tools page if we agree with you.
 </p>
