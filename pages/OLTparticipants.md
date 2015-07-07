@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Project Participants"
+title: "CLA Toolkit: Project Participants"
 description: ""
 ---
 {% include JB/setup %}
@@ -33,29 +33,29 @@ description: ""
 		If you want to find out more then you can download the project proposal <a href="../assets/papers/prop.id.qut.kitto.2014-front.pdf">here</a>, and please use this email to <a href="mailto:CLAtoolkitemail">contact us</a> if you would like to get involved in some way. 
 	</p>
 
-	<h3>Queensland University of Technology</h3>
+	<h5>Queensland University of Technology</h5>
 	<ul>
-		<li>Lead: Kirsty Kitto</li>
+		<li>Lead: <a href="http://users.on.net/~kirsty.kitto/">Kirsty Kitto</a></li>
 		<li>Mandy Lupton</li>
 		<li>John Banks</li>
 		<li>Dann Mallet</li>
-		<li>Peter Bruza</li>
+		<li><a href="http://www.quantum-interaction.org/bruza/blogsite/index.html">Peter Bruza</a></li>
 		<li>Project Manager/Data Analyst: Aneesha Bakharia</li>
 	</ul>
-	<h3>University of South Autralia</h3>
+	<h5>University of South Autralia</h5>
 	<ul>
 		<li>Shane Dawson</li>
-		<li>Dragan Gasevic</li>
+		<li><a href="http://www.sfu.ca/~dgasevic/">Dragan Gašević</a></li>
 	</ul>
-	<h3>University of Technology, Sydney</h3>
+	<h5>University of Technology, Sydney</h5>
 	<ul>
-		<li>Simon Buckingham Shum</li>
+		<li><a href="http://simon.buckinghamshum.net/">Simon Buckingham Shum</a></li>
 	</ul>
-	<h3>University of Sydney</h3>
+	<h5>University of Sydney</h5>
 	<ul>
 		<li>Abelardo Pardo</li>
 	</ul>
-	<h3>University of Texas, Arlington</h3>
+	<h5>University of Texas, Arlington</h5>
 	<ul>
 		<li>George Siemens</li>
 	</ul>
