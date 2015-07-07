@@ -18,4 +18,5 @@ http://beyondlms.org/rss.xml
 http://beyondlms.org/sitemap.txt
 http://beyondlms.org/tags.html
 
+http://beyondlms.org/blog/02/07/2015/QUTworkshop
 http://beyondlms.org/blog/18/05/2015/UTSworkshop

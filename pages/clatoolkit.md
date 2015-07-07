@@ -27,7 +27,7 @@ description: ""
 </p>
 <p>
 	The CLA toolkit is one solution that we are creating in an attempt to fill this gap. It helps students and teachers to harvest data about their activities in standard social media environments, and then provide immediate feedback and reports. It is currently in development, but the basic schema for the CLA toolkit is sketched out below.	   
-	<img src="../assets/images/schema.jpg" alt="A basic schema for the CLA toolkit" border="5">
+	<img src="../assets/images/schema.jpg" alt="A basic schema for the CLA toolkit" width='635' border="5">
 </p>
 <p> 
 	The CLA toolkit relies heavily upon the <a href="http://www.adlnet.gov/tla/experience-api/">Experience API (xAPI)</a>, which makes it possible to capture student behaviour in a highly flexible manner and send it to a Learning Record Store (LRS) for immediate or later analysis. Indeed, if you are going to use the CLA toolkit then you will need to have access to a <a href="http://tincanapi.com/learning-record-store/">Learning Record Store</a>. We give some basic information about LRSs that you could use with the CLA toolkit on <a href="../pages/lrs.html">another page</a>.

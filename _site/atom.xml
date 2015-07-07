@@ -4,13 +4,58 @@
  <title>Beyond LMS</title>
  <link href="http://beyondlms.org/" rel="self"/>
  <link href="http://beyondlms.org"/>
- <updated>2015-07-08T08:04:42+10:00</updated>
+ <updated>2015-07-08T08:37:36+10:00</updated>
  <id>http://beyondlms.org</id>
  <author>
    <name>Beyond LMS</name>
    <email>kirsty.kitto@qut.edu.au</email>
  </author>
 
+ 
+ <entry>
+   <title>QUT Workshop - Sign-up and requirements elicitation</title>
+   <link href="http://beyondlms.org/blog/02/07/2015/QUTworkshop"/>
+   <updated>2015-07-02T00:00:00+10:00</updated>
+   <id>http://beyondlms.org/blog/02/07/2015/QUTworkshop</id>
+   <content type="html">
+&lt;p&gt;
+	In &lt;a href=&quot;2015-5-18-UTSworkshop.html&quot;&gt;my last blog&lt;/a&gt; &lt;a href=&quot;http://users.on.net/~kirsty.kitto/&quot;&gt;I&lt;/a&gt; wrote about moving the LA conversation towards a more complex form of analytics. I claimed that I had some pretty good ideas about how to jumpstart the conversation into a position where people really start imagining what is possible.. beyond simple counts and the identification of at risk students.  On 2nd July we held our second workshop, this time at QUT. 
+&lt;/p&gt;
+&lt;p&gt;
+	Instead of holding a day long workshop, I took what I learned at the &lt;a href=&quot;2015-5-18-UTSworkshop.html&quot;&gt;UTS workshop&lt;/a&gt;, and we only scheduled a 2 hour event. One hour to get people understanding what might be possible, and the second hour devoted to requirements elicitation (with free lunch at the end - always essential to get people showing up!) We had a great turn out, with pretty even representation between Academics, Learning Designers and technical people (e.g. IT Services). Here is a nice image from about half-way through.
+	&lt;img src=&quot;../assets/images/turnout.jpg&quot; alt=&quot;Photo from the workshop&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+	We had an extra agenda for this day too.. having just obtained ethical clearance to start trials, we were looking to sign up academics who might be interested in volunteering their classes as guniea pigs to try out our current tools in the coming semester of teaching. So we had to find out what exactly they want!
+&lt;/p&gt;
+&lt;p&gt;
+	Similar run through as last time, but much more efficient, and we actually had some LA dashboards to show this time! (That got people very excited.) First I gave a background to the project, slightly amended from the UTS workshop, but still pretty much the same:
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;iframe src = &quot;/ViewerJS/#../assets/slides/CLAtoolkit-QUT-Kirsty.pdf&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	Then &lt;a href=&quot;http://staff.qut.edu.au/staff/luptonm/&quot;&gt;Mandy Lupton&lt;/a&gt; gave a similar talk too.. this time she used a prezi, which seemed to go down pretty well.
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;iframe src = &quot;&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	Then the new bit... Simon was not there, so we got Aneesha Bakharia, our Project Manager/Data Analyst to demo the dashboards that she has been developing. These give learners and instructors information about their participation in a Twitter activity (in this case tweeting about the day using the #clatoolkit hashtag) and a Facebook community (in this case a dummy site set up under the CLATest domain). Aneesha was able to show people information about their participation in this exercise in real time. That got people&#39;s attention :) If you want to go and have a look at the current form of the demos then go to &lt;a href=&quot;&quot;&gt;this site&lt;/a&gt; and log in with &lt;i&gt;user: &lt;/i&gt; and &lt;i&gt;password: &lt;/i&gt;.
+&lt;/p&gt;
+&lt;p&gt;
+	Having got people&#39;s attention, we then moved onto a split scenario. The technical people got to go and discuss implementation and source code etc. with Aneesha, while Mandy and I got everyone else to start thinking about what more analytics and dashboard capabilities they wanted. We fed them through the following sequence of steps:
+	&lt;br /&gt;
+	&lt;br /&gt;
+	&lt;iframe src = &quot;/ViewerJS/#../assets/slides/CLAtoolkit-QUT-elicitation.pdf&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
+	&lt;br /&gt;
+	&lt;br /&gt;
+	Here are some of the most interesting ideas that came out.. everyone was scrawling stuff all over butchers paper, so we got quite a few ideas for the future... Stay tuned!
+
+
+
+
+
+</content>
+ </entry>
  
  <entry>
    <title>From Data to Visualisation</title>
