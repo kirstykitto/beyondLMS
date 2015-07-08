@@ -4,7 +4,7 @@
  <title>Beyond LMS</title>
  <link href="http://beyondlms.org/" rel="self"/>
  <link href="http://beyondlms.org"/>
- <updated>2015-07-08T11:43:41+10:00</updated>
+ <updated>2015-07-08T11:46:13+10:00</updated>
  <id>http://beyondlms.org</id>
  <author>
    <name>Beyond LMS</name>
@@ -39,7 +39,7 @@
 	&lt;iframe src=&quot;https://prezi.com/embed/k9dkumj7ar5q/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWjNxWlNQcmg2RlRPRkRDcStneXhHNGR6UzlGVXdVRVhjWkIwdXN0RHY4bk94aTJrZz09&amp;amp;landing_sign=4SQFHEVSePIhMYFnBHurU5DuMbC_l5iGs6X2sE_jHSo#&quot; allowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; id=&quot;iframe_container&quot; frameborder=&quot;0&quot; height=&quot;400&quot; width=&quot;635&quot;&gt;&lt;/iframe&gt;
 	&lt;br /&gt;
 	&lt;br /&gt;
-	Then the new bit... Simon was not there, so we got Aneesha Bakharia, our Project Manager/Data Analyst to demo the dashboards that she has been developing. These give learners and instructors information about their participation in a Twitter activity (in this case tweeting about the day using the #clatoolkit hashtag) and a Facebook community (in this case a dummy site set up under the CLATest domain). Aneesha was able to show people information about their participation in this exercise in real time. That got people&#39;s attention :) If you want to go and have a look at the current form of the demos then go to &lt;a href=&quot;&quot;&gt;this site&lt;/a&gt; and log in with &lt;i&gt;user: &lt;/i&gt; and &lt;i&gt;password: &lt;/i&gt;.
+	Then the new bit... Simon was not there, so we got Aneesha Bakharia, our Project Manager/Data Analyst to demo the dashboards that she has been developing. These give learners and instructors information about their participation in a Twitter activity (in this case tweeting about the day using the #clatoolkit hashtag) and a Facebook community (in this case a dummy site set up under the CLATest domain). Aneesha was able to show people information about their participation in this exercise in real time. That got people&#39;s attention :) If you want to go and have a look at the current form of the demos then go to &lt;a href=&quot;&quot;&gt;this site&lt;/a&gt; and log in with &lt;i&gt;user: demo &lt;/i&gt; and &lt;i&gt;password: clademo&lt;/i&gt;.
 &lt;/p&gt;
 &lt;p&gt;
 	Having got people&#39;s attention, we then moved onto a split scenario. The technical people got to go and discuss implementation and source code etc. with Aneesha, while Mandy and I got everyone else to start thinking about what more analytics and dashboard capabilities they wanted. We fed them through the following sequence of steps:
