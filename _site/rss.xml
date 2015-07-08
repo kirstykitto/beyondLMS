@@ -5,8 +5,8 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://beyondlms.org</link>
         <link>http://beyondlms.org</link>
-        <lastBuildDate>2015-07-08T09:54:45+10:00</lastBuildDate>
-        <pubDate>2015-07-08T09:54:45+10:00</pubDate>
+        <lastBuildDate>2015-07-08T11:31:31+10:00</lastBuildDate>
+        <pubDate>2015-07-08T11:31:31+10:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -31,7 +31,7 @@
 	Then &lt;a href=&quot;http://staff.qut.edu.au/staff/luptonm/&quot;&gt;Mandy Lupton&lt;/a&gt; gave a similar talk too.. this time she used a prezi, which seemed to go down pretty well.
 	&lt;br /&gt;
 	&lt;br /&gt;
-	&lt;iframe src = &quot;&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
+	&lt;iframe src = &quot;https://prezi.com/k9dkumj7ar5q/mapping-learner-engagement-in-connected-learning-environments/&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
 	&lt;br /&gt;
 	&lt;br /&gt;
 	Then the new bit... Simon was not there, so we got Aneesha Bakharia, our Project Manager/Data Analyst to demo the dashboards that she has been developing. These give learners and instructors information about their participation in a Twitter activity (in this case tweeting about the day using the #clatoolkit hashtag) and a Facebook community (in this case a dummy site set up under the CLATest domain). Aneesha was able to show people information about their participation in this exercise in real time. That got people&#39;s attention :) If you want to go and have a look at the current form of the demos then go to &lt;a href=&quot;&quot;&gt;this site&lt;/a&gt; and log in with &lt;i&gt;user: &lt;/i&gt; and &lt;i&gt;password: &lt;/i&gt;.
