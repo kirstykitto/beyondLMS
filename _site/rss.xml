@@ -5,8 +5,8 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://beyondlms.org</link>
         <link>http://beyondlms.org</link>
-        <lastBuildDate>2015-07-21T17:05:36+02:00</lastBuildDate>
-        <pubDate>2015-07-21T17:05:36+02:00</pubDate>
+        <lastBuildDate>2015-07-21T17:09:32+02:00</lastBuildDate>
+        <pubDate>2015-07-21T17:09:32+02:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -129,8 +129,9 @@
 &lt;p&gt; 
 	In the one day, we followed a format that went from data to reporting and what I want.. (see &lt;a href=&quot;&quot;&gt;the program&lt;/a&gt; for the day, but we only roughly followed it in the end :). Here is a bit more explanation about what we did:
 	&lt;dl&gt;
-		&lt;dt&gt;&lt;b&gt;Data:&lt;/b&gt;
+		&lt;dt&gt;&lt;p&gt;&lt;b&gt;Data:&lt;/b&gt;
 				We started by introducing people to data. In this case it was &lt;a href=&quot;http://www.adlnet.gov/capabilities/tla/experience-api.html&quot;&gt;xAPI&lt;/a&gt; data (see also the project &lt;a href=&quot;http://tincanapi.com/&quot;&gt;Tin Can&lt;/a&gt; pages for more information about this data type) but it could have been any format. 
+			&lt;/p&gt;
 		&lt;/dt&gt;
 		&lt;dd&gt;
 			&lt;p&gt;
@@ -178,8 +179,11 @@
 		&lt;iframe src = &quot;/ViewerJS/#../assets/slides/SBS_CLT_Wkshp_12May2015.pdf&quot; width=&#39;635&#39; height=&#39;540&#39; allowfullscreen webkitallowfullscreen&gt;&lt;/iframe&gt;
 		&lt;br /&gt;
 		&lt;br /&gt;
-		&lt;dt&gt;&lt;b&gt;What do you want?:&lt;/b&gt;
+		&lt;dt&gt;
+			&lt;p&gt;
+				&lt;b&gt;What do you want?:&lt;/b&gt;
 				Only towards the end of the day did we get into asking people what they want. 
+			&lt;/p&gt;
 		&lt;/dt&gt;			
 		&lt;dd&gt;
 			This meant that everyone had been well and truly &lt;a href=&quot;http://en.wikipedia.org/wiki/Priming_%28psychology%29&quot;&gt;primed&lt;/a&gt; towards thinking about Learning Analytics in a more interesting way, and I think that the results payed off. We also made sure that everyone thought about what their students might like to see.. in the end Learning Analytics is for learners and if we don&#39;t give our students interesting perspectives on their own learning then I fear we are all wasting our time. Everyone really rose to the challenge, and we all learned a lot. 
