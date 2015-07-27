@@ -1,0 +1,159 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>xAPI Recipe for Connected Learning Analytics</title>
+  <meta name="description" content="">
+  <meta name="author" content="Beyond LMS">
+
+  <!-- styles -->
+  <link href="/assets/themes/twitter/css/1.4.0/bootstrap.css" rel="stylesheet">
+  <link href="/assets/themes/twitter/css/style.css?body=1" rel="stylesheet" type="text/css" media="all">
+
+  <!-- Drop down menu http://code.stephenmorley.org/javascript/touch-friendly-drop-down-menus/-->
+  <link href="/assets/js/Dropdown.js">
+  <link href="/assets/css/Dropdown.css" rel="stylesheet" type="text/css" media="all">
+</head>
+
+<body>
+
+  <div class="topbar">
+    <div class="fill">
+      <div class="container">
+        <a class="brand" href="/">Beyond LMS</a>
+        <ul class="nav dropdown">
+
+          <li>
+            <a href="#">Tools ▾</a>
+            <ul>
+              <li>
+                <span> Open Source</span>
+                <ul>
+                  <li><a href="/pages/clatoolkit.html">CLA Toolkit</a> </li>
+                  <li><a href="/pages/lrs.html">Learning Record Stores</a></li>
+                </ul>
+              </li>
+              <li>
+                <span> Proprietary </span>
+                <ul><!--  
+                  <li><a href="#">Proprietary Tool Placeholder 1</a></li>
+                  <li><a href="#">Proprietary Tool Placeholder 2</a></li> -->
+                </ul>
+              </li>
+              <li>
+                <span> Analytics</span>
+                <ul><!--  
+                  <li><a href="#">Analytics Tool Placeholder 1</a></li>
+                  <li><a href="#">Analytics Tool Placeholder 2</a></li>-->
+                </ul>
+              </li>
+              <li><a href="/pages/includemytool.html">I want my tool included!</a></li>
+            </ul>
+          </li>
+          <li><a href="/pages/pedagogical-approaches.html">Pedagogical Approaches</a></li>
+          <li>
+            <a href="#">Blog ▾</a>
+            <ul>
+              <li><a href="/archive.html">Archive</a></li>
+              <li><a href="/categories.html">Categories</a></li>
+              <li><a href="/tags.html">Tags</a></li>
+            </ul>
+          </li>
+          <li><a href="/pages/contact.html">Contact us</a></li>
+          <li>
+
+
+
+
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+
+    <div class="content">
+      <div class="sidebar">
+
+        <h6>Recent Posts</h6>
+
+        <ul class="posts">
+          
+          <li><span>21 Jul 2015</span> &raquo; <br /><a href="/blog/21/07/2015/xAPICamp">xAPI Camp</a></li>
+          
+          <li><span>18 Jul 2015</span> &raquo; <br /><a href="/blog/18/07/2015/wanderweg">How should we teach in the wild? (Infrastructure and Swiss Wanderwegs)</a></li>
+          
+          <li><span>02 Jul 2015</span> &raquo; <br /><a href="/blog/02/07/2015/QUTworkshop">QUT Workshop - Sign-up and requirements elicitation</a></li>
+          
+          <li><span>18 May 2015</span> &raquo; <br /><a href="/blog/18/05/2015/UTSworkshop">UTS Workshop: From Data to Visualisation</a></li>
+          
+        </ul>
+
+        <a class="twitter-timeline" href="https://twitter.com/beyondLMS" data-widget-id="605255240586100736" data-chrome="noscrollbar noborders nofooter" data-tweet-limit="1">Tweets by @beyondLMS</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+        
+      </div>
+      
+<div class="page-header">
+  <h1>xAPI Recipe for Connected Learning Analytics <small></small></h1>
+</div>
+
+<div class="row">
+  <div class="span11">
+    
+<div class="sidebarnav">
+
+	<h6>CLA Toolkit Pages</h6>
+	<ul>
+
+		<li><a href="/pages/clatoolkit.html">CLA Toolkit</a></li>
+		<li><a href="/pages/OLTparticipants.html">Project Participants</a></li>
+		<li><a href="/pages/clrecipe.html">CL Recipe</a></li>
+		<li><a href="https://github.com/kirstykitto/CLAtoolkit">Project on Github</a></li>
+	</ul>
+
+        <a class="twitter-timeline" href="https://twitter.com/hashtag/clatoolkit" data-widget-id="605959017777631234" data-chrome="noscrollbar noborders nofooter" data-tweet-limit="1">#clatoolkit Tweets</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+</div>
+
+<p>xAPI provides an extremely flexible way of representing events that can be saved to a Learning Record Store (LRS). The introduction of xAPI has been a great step forward for learning analytics because it allows a variety of events that originate from different systems to be tracked. The trouble with anything that is flexible is that there may be multiple ways to represent and track the same type of event and this has implications for building analytics tools that work across LRS installations. The community solution has been to design and share event representations as recipes. A recipe prescribes the structure for an xAPI and is made publically available via the Recipe Registry.</p>
+
+<p>The Connected Learning Analytics (CLA) Toolkit is concerned with providing analytics for learning activities that occur outside of the traditional Learning Management System (LMS). The CLA Toolkit will allow teaching staff to import student interactions from social media platforms (e.g. Twitter, Facebook Groups, etc) into an LRS and provide advanced analytics. One of the first steps along this path has been to design an xAPI recipe for social media. The technical elements of the design decisions made in building the recipe have all been transparent and open for community feedback and contribution on the <a href="https://github.com/kirstykitto/CLRecipe">CLRecipe Github site</a>.</p>
+
+<p>While designing an xAPI recipe falls in the technical realm of data modelling, the team focus has really been to get an accurate representation of interactions that occur on social media platform and ensure that tracked data can easily be retrieved for advanced analytics such as social network analysis and content analysis (e.g., Cognitive Presence classification).  Moving beyond the LMS also means moving beyond simplistic aggregate counts of activity!</p>
+
+<p>In summary the CLRecipe project:</p>
+<ol>
+	<li>Provides common terminology for working with multiple social media platforms (e.g., Facebook Like and Twitter Favorite are both mapped to Like).</li>
+	<li>Provides an xAPI Recipe for building xAPI statement for modeling social media interactions that include the relationship between social media posts (i.e. reply, share, like, tag, rate, etc) so that advanced analytics (including content analysis and social network analysis) can be performed. </li>
+	<li>Provides recipe examples for Microblogging, Content Authoring, Content Collaboration and Content Curation.</li>
+</ol>
+
+<p>Once the recipe stabilises, we’ll start providing examples of the type of analytics that can be provided for various types of learning activities that use different social media platforms and start to seek engagement from the learning design community. Lots more coming soon!</p>
+
+
+  </div>
+</div>
+
+
+    </div>
+
+
+
+
+    <footer>
+<!--       <p> Beyond LMS 2015 
+        with help from <a href="http://jekyllbootstrap.com" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll Bootstrap</a>
+        and <a href="http://twitter.github.com/bootstrap/" target="_blank">Twitter Bootstrap</a>
+      </p> -->
+      <p>
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+      </p>
+    </footer>
+
+  </div> <!-- /container -->
+
+  
+
+
+</body>
+</html>
