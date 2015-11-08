@@ -18,6 +18,8 @@ http://beyondlms.org/rss.xml
 http://beyondlms.org/sitemap.txt
 http://beyondlms.org/tags.html
 
+http://beyondlms.org/blog/09/11/2015/TrialsUI
+http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS
 http://beyondlms.org/blog/21/07/2015/xAPICamp
 http://beyondlms.org/blog/18/07/2015/wanderweg
 http://beyondlms.org/blog/02/07/2015/QUTworkshop

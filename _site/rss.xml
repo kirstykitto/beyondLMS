@@ -5,10 +5,105 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://beyondlms.org</link>
         <link>http://beyondlms.org</link>
-        <lastBuildDate>2015-07-22T08:15:03+02:00</lastBuildDate>
-        <pubDate>2015-07-22T08:15:03+02:00</pubDate>
+        <lastBuildDate>2015-11-09T05:01:35+10:00</lastBuildDate>
+        <pubDate>2015-11-09T05:01:35+10:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Trialling the CLAToolkit - Dashboards and Adventures in User Interaction</title>
+                <description>
+&lt;h6&gt;
+	Kirsty Kitto
+&lt;/h6&gt;
+
+&lt;p&gt;
+	So... its been a while. Sorry, but these last few months have been pretty busy. We have been madly rolling out functionality, finding out what people think about it, and then trying new things and upgrades. We have also been running a first trial with a real actual unit run at QUT
+	&lt;a href=&quot;http://2015.informationprograms.info/&quot;&gt;IFN614: Information Programs&lt;/a&gt;  which is run by an academic in my School &lt;a href=&quot;http://higheredukate.com/who-is-kate/&quot;&gt;Kate Davis&lt;/a&gt;. Kate is one of your classic Teach in the Wild types. She has a long history of using innovative Wordpress set-ups for her classes that blow your standard LMS out of the water. Normally Kate spends a couple of weeks at the beginning of semester posting announcements in Blackboard (QUT&#39;s standard LMS) saying that the class is not there, and that they should follow a link to her actual teaching site. Check out the difference in the two setups when it comes to IFN614:
+&lt;/p&gt;
+&lt;p&gt;Blackboard:&lt;/p&gt;
+&lt;p&gt;
+	&lt;img src=&quot;/assets/images/IFN614-blackboard.jpg&quot; alt=&quot;IFN614, Blackboard Site&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;/p&gt;
+&lt;p&gt; Versus WordPress:&lt;/p&gt;
+&lt;p&gt;
+	&lt;img src=&quot;/assets/images/IFN614-wordpress.jpg&quot; alt=&quot;IFN614, Wordpress Site&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;/p&gt;
+&lt;p&gt;
+	Of particular interest to us, Kate has strong participation requirements for this unit, students need to post on blogs in the wordpress site, and participate in regular Twitter chats using hashtags specified at the beginning of semester. These chats go nuts. I have watched a couple and they get an insane amount of action. A couple of weeks ago Kate was telling me that she normally has three different screens focussed on different parts of the chat, and she still misses most of what is going on. Historically, Kate has had to manually trawl through twitter to work out how well her students participated in the unit... you can imagine how easy that is. This makes her a fantastic candidate for our project.. hopefully it is really going to help her out down the track. 
+&lt;/p&gt;
+&lt;p&gt;
+	So. We gave Kate&#39;s students the option to sign up for a trial of the CLA toolkit. Data was collected from the designated hashtags used in the class as well as from the Wordpress forums. The class has 34 students, and about a third signed up (twelve students were in the system the last time I checked). The class has pretty much finished now (they are all madly finishing off assignments etc.) so we pretty much have our full data set now. Lets use it go explore some of the reports that are available in the CLA toolkit. 
+&lt;/p&gt;
+&lt;p&gt;
+	First, lets check out the Activity Dashboard for the unit.
+&lt;/p&gt;
+	&lt;img src=&quot;/assets/images/IFN614-Activity.JPG&quot; alt=&quot;IFN614, Activity&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;p&gt;
+	When do you think the twitter chats were? ;) Note that by the end of the semester these things were getting about 300 tweets just from the signed up cohort! (Although Kate herself was normally responsible for around 80 of them.. talk about teacher presence :) Note also that the chats got more active as the class progressed and the class started finding their feet. See down the bottom there is a little slider? That lets people zoom down into more specific points in time. They can then filter some of the other reports off of this restricted period (at the moment this works with SNA and a wordcloud but this functionality should roll out to all the widgets over summer). The Activity report also lets the instructor drop down into the student dashboard, which I am a bit worried is too boring at the moment... In our ethics application we said that we would only show students data about their own behaviour in the system. This means that, for example, the SNA shown to the students is only about &lt;i&gt;their&lt;/i&gt; tweets to someone else. Check out my student dashboard SNA for our PROJ-TEAM unit (which is collecting data from the #clatoolkit, #xAPI and #learninganalytics hashtags).
+&lt;/p&gt;
+	&lt;img src=&quot;/assets/images/PROJ-TEAM-Student.JPG&quot; alt=&quot;IFN614, Activity&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;p&gt;	
+	That shot also shows you another feature - students can select specific links and then see what interactions led to those links in another report below... here we see some of the places where I have mentioned @aneesha in a tweet. But back to the point... Here is the equivalent instructor facing report for PROJ-TEAM
+&lt;/p&gt;
+	&lt;img src=&quot;/assets/images/PROJ-TEAM-SNA.JPG&quot; alt=&quot;Ideas2&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;p&gt;
+	Its a lot more interesting hey? We are currently trying to work out what a nice balance is between privacy and information.. I think at the moment we might be leaning a bit too much towards privacy. Might have to go back and get a variation to the ethics application once we work out a good balance. Anyway, just as an aside.. If you explore that shot you can also see that a couple of the project team have not signed up yet.. You should totally pay them out if you work out who they are ;) So.. anyway this instructor facing SNA report also lets you do the click on a link and explore specific interactions, which is really useful for working out how different members of a cohort are interacting with one another. And if we think back to the Activity report then we should recall that we can look at the interactions that occurred over a specific more limited period of time - another feature that I have been using quite a bit. 
+&lt;/p&gt;
+&lt;p&gt;
+	One more set of reports are currently available, geared towards Content Analysis. These give sentiment analysis, a word cloud and a Topic Model based on &lt;a href=&quot;http://nlp.stanford.edu/events/illvi2014/papers/sievert-illvi2014.pdf&quot;&gt;LDAvis&lt;/a&gt;
+&lt;/p&gt;
+	&lt;img src=&quot;/assets/images/PROJ-TEAM-Content.JPG&quot; alt=&quot;Ideas2&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;p&gt;
+	This report is going to see a lot of development over the next few months - fun times ahead! :)
+&lt;/p&gt;
+&lt;p&gt;
+	Anywho.. back to IFN614.. 
+	Here is a zoomed out representation of the Social Network Analysis of the class that Kate can see at the moment.
+&lt;/p&gt;
+	&lt;img src=&quot;/assets/images/IFN614-SNA.JPG&quot; alt=&quot;IFN614, SNA&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
+&lt;p&gt;
+	Cool huh? Its a pretty connected class.
+&lt;/p&gt;
+
+
+</description>
+                <link>http://beyondlms.org/blog/09/11/2015/TrialsUI</link>
+                <guid>http://beyondlms.org/blog/09/11/2015/TrialsUI</guid>
+                <pubDate>2015-11-09T00:00:00+10:00</pubDate>
+        </item>
+
+        <item>
+                <title>xAPI Analytics - Stepping out of the LRS (Part 1)</title>
+                <description>
+&lt;h6&gt;
+	Aneesha Bakharia
+&lt;/h6&gt;
+
+	&lt;p&gt;
+		xAPI statements are stored in a Learning Record Store (LRS). The API specification defines how statements are inserted and provides a very basic way to retrieve statements. The specification does not define anyway to query the LRS across all stored fields or return aggregate counts. Various LRS implementations exist and most use a database as a backend, Learning Locker for example uses MongoDB. The underlying database technology used in most LRS implementations supports ad-hoc querying and this allows LRS vendors to build reporting and data warehousing capabilities. The xAPI specification however only requires that full statements are returned and that a link, available for 24 hours remains for access to the queried data which can then be traversed over (if multiple pages) to obtain the statements for further processing and analysis. This is understandable as the LRS is middleware and contains an enormous amount of data making ad-hoc querying inefficient.  Data needs to be extracted and transformed into a data warehouse for advanced analytics. LRS vendors such as WaxLRS and YetAnalytics are already providing analytics in their products.  The xAPI community however needs to share ideas on creating custom dashboards, reports and advanced analytics. This has been the main driver behind writing a series of blog posts on “Stepping out of the LRS”.
+	&lt;/p&gt;
+
+	&lt;p&gt;
+		In the “Stepping out of the LRS” series of blog posts, open source tools will be used to build analytics for xAPI statements extracted from an LRS. The focus will be on using open source tools to:
+		&lt;ul&gt;
+			&lt;li&gt;ingest and expose the xAPI statements for aggregate queries&lt;/li&gt;
+			&lt;li&gt;build a configurable dashboard &lt;/li&gt;
+			&lt;li&gt;encourage experimentation with open source log processing and dashboard visualisation tools &lt;/li&gt;
+		&lt;/ul&gt;
+
+	&lt;/p&gt;
+	&lt;p&gt;
+		In Part 2, xAPI statements will be stored in Postgres with a dashboard built in &lt;a href=&quot;http://redash.io/&quot;&gt;Re:Dash&lt;/a&gt;. Postgres is a relational database with excellent support for storing and querying json documents. ReDash is a unique dashboard application build in Python and Django. Re:Dash is able to store queries and then display the results in a variety of widgets.
+	&lt;/p&gt;
+	&lt;p&gt;
+		In Part 3, xAPI statements will be stored in &lt;a href=&quot;https://www.elastic.co/products/elasticsearch&quot;&gt;ElasticSearch&lt;/a&gt; with a dashboard provided by &lt;a href=&quot;https://www.elastic.co/products/kibana&quot;&gt;Kibana&lt;/a&gt;. ElasticSearch and Kibana are used extensively for log file processing.
+	&lt;/p&gt;
+</description>
+                <link>http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS</link>
+                <guid>http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS</guid>
+                <pubDate>2015-07-27T00:00:00+10:00</pubDate>
+        </item>
 
         <item>
                 <title>xAPI Camp</title>
@@ -45,7 +140,7 @@
 </description>
                 <link>http://beyondlms.org/blog/21/07/2015/xAPICamp</link>
                 <guid>http://beyondlms.org/blog/21/07/2015/xAPICamp</guid>
-                <pubDate>2015-07-21T00:00:00+02:00</pubDate>
+                <pubDate>2015-07-21T00:00:00+10:00</pubDate>
         </item>
 
         <item>
@@ -85,7 +180,7 @@
 </description>
                 <link>http://beyondlms.org/blog/18/07/2015/wanderweg</link>
                 <guid>http://beyondlms.org/blog/18/07/2015/wanderweg</guid>
-                <pubDate>2015-07-18T00:00:00+02:00</pubDate>
+                <pubDate>2015-07-18T00:00:00+10:00</pubDate>
         </item>
 
         <item>
@@ -134,7 +229,7 @@
 </description>
                 <link>http://beyondlms.org/blog/02/07/2015/QUTworkshop</link>
                 <guid>http://beyondlms.org/blog/02/07/2015/QUTworkshop</guid>
-                <pubDate>2015-07-02T00:00:00+02:00</pubDate>
+                <pubDate>2015-07-02T00:00:00+10:00</pubDate>
         </item>
 
         <item>
@@ -244,7 +339,7 @@
 </description>
                 <link>http://beyondlms.org/blog/18/05/2015/UTSworkshop</link>
                 <guid>http://beyondlms.org/blog/18/05/2015/UTSworkshop</guid>
-                <pubDate>2015-05-18T00:00:00+02:00</pubDate>
+                <pubDate>2015-05-18T00:00:00+10:00</pubDate>
         </item>
 
 
