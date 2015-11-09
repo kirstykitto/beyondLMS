@@ -4,7 +4,7 @@
  <title>Beyond LMS</title>
  <link href="http://beyondlms.org/" rel="self"/>
  <link href="http://beyondlms.org"/>
- <updated>2015-11-09T09:21:43+10:00</updated>
+ <updated>2015-11-09T11:39:38+10:00</updated>
  <id>http://beyondlms.org</id>
  <author>
    <name>Beyond LMS</name>
@@ -47,7 +47,7 @@
 	&lt;img src=&quot;/assets/images/IFN614-Activity.jpg&quot; alt=&quot;IFN614, Activity&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
 &lt;/p&gt;
 &lt;p&gt;
-	When do you think the twitter chats were? ;) Note that by the end of the semester these things were getting about 300 tweets just from the signed up cohort! (Although Kate herself was normally responsible for around 80 of them.. talk about &lt;a href=&quot;https://coi.athabascau.ca/coi-model/description-teaching-presence/&quot;&gt;teacher presence&lt;/a&gt;! Note also that the chats got more active as the class progressed and the class started finding their feet. See down the bottom there is a little slider? That lets people zoom down into more specific points in time. They can then filter some of the other reports off of this restricted period (at the moment this works with SNA and a wordcloud but this functionality should roll out to all the widgets over summer). The Activity report also lets the instructor drop down into the student dashboard, which I am a bit worried is too boring at the moment... In our ethics application we said that we would only show students data about their own behaviour in the system. This means that, for example, the SNA shown to the students is only about &lt;i&gt;their&lt;/i&gt; tweets to someone else. Check out my student dashboard SNA for our PROJ-TEAM unit (which is collecting data from the #clatoolkit, #xAPI and #learninganalytics hashtags).
+	When do you think the twitter chats were? ;) Note that by the end of the semester these things were getting about 300 tweets just from the signed up cohort! (Although Kate herself was normally responsible for around 80 of them.. talk about &lt;a href=&quot;https://coi.athabascau.ca/coi-model/description-teaching-presence/&quot;&gt;teacher presence&lt;/a&gt;!) Note also that the chats got more active as the class progressed and the class started finding their feet. See down the bottom there is a little slider? That lets people zoom down into more specific points in time. They can then filter some of the other reports off of this restricted period (at the moment this works with SNA and a wordcloud but this functionality should roll out to all the widgets over summer). The Activity report also lets the instructor drop down into the student dashboard, which I am a bit worried is too boring at the moment... In our ethics application we said that we would only show students data about their own behaviour in the system. This means that, for example, the SNA shown to the students is only about &lt;i&gt;their&lt;/i&gt; tweets to someone else. Check out my student dashboard SNA for our PROJ-TEAM unit (which is collecting data from the #clatoolkit, #xAPI and #learninganalytics hashtags).
 &lt;/p&gt;
 &lt;p&gt;
 	&lt;img src=&quot;/assets/images/PROJ-TEAM-Student.jpg&quot; alt=&quot;PROJ-TEAM, Student Dashboard&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
