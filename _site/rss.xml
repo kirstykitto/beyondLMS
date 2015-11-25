@@ -5,10 +5,61 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://beyondlms.org</link>
         <link>http://beyondlms.org</link>
-        <lastBuildDate>2015-11-18T13:27:38+10:00</lastBuildDate>
-        <pubDate>2015-11-18T13:27:38+10:00</pubDate>
+        <lastBuildDate>2015-11-25T20:52:58+10:00</lastBuildDate>
+        <pubDate>2015-11-25T20:52:58+10:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Down and Dirty with Data for SLA - Part 2</title>
+                <description>
+
+&lt;h6&gt;
+	Kirsty Kitto
+&lt;/h6&gt;
+
+&lt;p&gt;	
+	This blog post is the second of two aimed at people attending &lt;a href=&quot;https://www.itl.usyd.edu.au/analytics/alasi.htm&quot;&gt;ALASI 2015&lt;/a&gt;. Check out the &lt;a href=&quot;http://www.beyondlms.org/blog/18/11/2015/ALASI15Part1/&quot;&gt;first post&lt;/a&gt;, which has some pre-workshop preparation, and most importantly &lt;b&gt;gives you some discussions about how to create an account in the CLA toolkit. 
+&lt;/p&gt;
+&lt;p&gt;
+	 If you are interested in participating in the workshop from beyond ALASI&#39;15 then you are welcome, follow the specific instructions below. 
+&lt;/p&gt;
+&lt;h4&gt;ALASI workshop - Stages and basic lesson plan&lt;/h4&gt;
+&lt;p&gt;
+	The workshop will cover the following topics in a series of mini-workshops. Each subsection will build upon what has gone before, but if you miss the first session, you should still be able to walk in to the second one (it will be easier to do this if you complete the preparation phase in &lt;a href=&quot;http://www.beyondlms.org/blog/18/11/2015/ALASI15Part1/&quot;&gt;stage one&lt;/a&gt; first. Topics will be discussed in the following loose order:
+	&lt;ol&gt;
+		&lt;li&gt;Introduction to project, data generation and sign up to CLA toolkit&lt;/li&gt;
+		&lt;li&gt;Social Network and Content Analysis&lt;/li&gt;
+		&lt;li&gt;Feedback Loops&lt;/li&gt;
+		&lt;h5&gt;Break&lt;/h5&gt;
+		&lt;li&gt;Discourse Analytics&lt;/li&gt;		
+		&lt;li&gt;Nature of Interaction (Community of Inquiry and Cognitive Presence)&lt;/li&gt;
+		&lt;li&gt;What should you measure?&lt;/li&gt;
+		&lt;li&gt;Future developments and how to get involved&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/p&gt;
+&lt;h4&gt;&lt;/h4&gt;
+&lt;p&gt;If you are would like to join in from elsewhere in the world (or even just another room at ALASI) then you should:
+	&lt;ol&gt;
+		&lt;li&gt;Follow these hashtags: #clatoolkit, #LAbarriers, #LAfixes, #alasi15-dad&lt;/li&gt;
+		&lt;li&gt;Check out our &lt;a href=&quot;https://www.youtube.com/playlist?list=PL2ZF2gBUnvx5YQcHlRrodMxYFKAgVsPOC &quot;&gt;Youtube channel&lt;/a&gt; and enter some responses in the &lt;a href=&quot;https://www.youtube.com/channel/UCgWmpb4qnKicxbFqaMoAhnA/discussion&quot;&gt;discussion thread&lt;/a&gt;&lt;/li&gt;
+		&lt;li&gt;Follow the instructions that get posted to the #alasi15-dad hashtag on Twitter&lt;/li&gt;
+	&lt;/ol&gt;
+&lt;/p&gt;
+&lt;h4&gt;Instructor Facing Dashboard&lt;/h4&gt;
+&lt;p&gt;
+You can go to &lt;a href=&quot;http://clatoolkit.beyondlms.org/&quot;&gt;this link&lt;/a&gt; to check out the instructor facing dashboard for the ALASI&#39;15 data set.&lt;br&gt;
+&lt;b&gt;login:&lt;/b&gt; staff-dashboard&lt;br&gt;
+&lt;b&gt;password:&lt;/b&gt; alasi15&lt;br&gt;
+&lt;/p&gt;
+
+
+
+</description>
+                <link>http://beyondlms.org/blog/26/11/2015/ALASI15Part2</link>
+                <guid>http://beyondlms.org/blog/26/11/2015/ALASI15Part2</guid>
+                <pubDate>2015-11-26T00:00:00+10:00</pubDate>
+        </item>
 
         <item>
                 <title>Down and Dirty with Data for SLA - Part 1</title>
@@ -63,7 +114,7 @@ This workshop has two objectives.
 	&lt;h5&gt;Step 2: Explore our YouTube Channel&lt;/h5&gt;
 	&lt;p&gt;We have set up a channel for the workshop here on our &lt;a href=&quot;https://www.youtube.com/playlist?list=PL2ZF2gBUnvx5YQcHlRrodMxYFKAgVsPOC &quot;&gt;CLA toolkit ALASI 2015 Youtube channel&lt;/a&gt;
 	&lt;ol&gt;
-		&lt;li&gt;Go and watch some of the videos in the channel! &lt;/li&gt;
+		&lt;li&gt;Go and watch some of the videos in the channel. The videos are in a playlist. &lt;/li&gt;
 		&lt;li&gt;Think about the following questions:
 		&lt;ol type=&quot;a&quot;&gt;
 			&lt;li&gt; What are the main barriers preventing the use of learning analytics at scale? 
@@ -72,12 +123,12 @@ This workshop has two objectives.
 			&lt;br&gt;(Tweet ideas to #LAfixes)&lt;/li&gt;
 		&lt;/ol&gt;
 		&lt;/li&gt;
-		&lt;li&gt;Go to the &lt;a href=&quot;https://www.youtube.com/channel/UCgWmpb4qnKicxbFqaMoAhnA/discussion&quot;&gt;comments thread&lt;/a&gt; for the channel (under Discussion tab) and leave a post that discusses any ideas that  you have about how it might be possible to help in the facilitation of LA at your institution. &lt;/li&gt;
+		&lt;li&gt;Go to the &lt;a href=&quot;https://www.youtube.com/channel/UCgWmpb4qnKicxbFqaMoAhnA/discussion&quot;&gt;discussion thread&lt;/a&gt; for the channel (under Discussion tab) and leave a post that discusses any ideas that  you have about how it might be possible to help in the facilitation of LA at your institution. &lt;/li&gt;
 	&lt;/p&gt;
 	&lt;b&gt;Optional extras:&lt;/b&gt;
 	&lt;p&gt;
 		&lt;li&gt;If you see any comments there that you would like to respond to, vote up, vote down etc. then feel free to do this.&lt;/li&gt;
-		&lt;li&gt;If you would like to add a video that you think might be of interest then feel free to do this. &lt;/li&gt;
+		&lt;li&gt;If you would like to add a link to a video that you think might be of interest then feel free to do this. &lt;/li&gt;
 		&lt;li&gt;If you would like to create a video discussing relevant issues and upload it to the channel then you are also welcome to do this!&lt;/li&gt;
 	&lt;/ol&gt;
 	&lt;/p&gt;

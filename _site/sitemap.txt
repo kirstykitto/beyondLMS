@@ -18,6 +18,7 @@ http://beyondlms.org/rss.xml
 http://beyondlms.org/sitemap.txt
 http://beyondlms.org/tags.html
 
+http://beyondlms.org/blog/26/11/2015/ALASI15Part2
 http://beyondlms.org/blog/18/11/2015/ALASI15Part1
 http://beyondlms.org/blog/09/11/2015/TrialsUI
 http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS
