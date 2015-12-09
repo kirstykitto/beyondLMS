@@ -36,13 +36,19 @@ description: ""
 	The CLA toolkit relies heavily upon the <a href="http://www.adlnet.gov/tla/experience-api/">Experience API (xAPI)</a>, which makes it possible to capture student behaviour in a highly flexible manner and send it to a Learning Record Store (LRS) for immediate or later analysis. Indeed, if you are going to use the CLA toolkit then you will need to have access to a <a href="http://tincanapi.com/learning-record-store/">Learning Record Store</a>. We give some basic information about LRSs that you could use with the CLA toolkit on <a href="../pages/lrs.html">another page</a>.
 </p>
 <p>
-	Importantly, the CLA toolkit only works within specified learning activities. We do not harvest all data pertaining to a student's interactions in social media, only the data that pertains to their learning. Sudent's sign up to data harvesting for specified social media, and only for specific activities. Thus, we harvest data that relates to a Twitter hashtag, or a Facebook group, and the before a teacher can link this data to specific students, students will need to tell their instructor their relevant social media username. This preserves student privacy, giving them control over what data they choose to gather. Dashboards have been created for both students and instructors, and enable students to explore information about their social network, the content that they are discussing, and their overall activity within the system. More tools will become available as the CLA toolkit develops.
+	Importantly, the CLA toolkit only works within specified learning activities. We do not harvest all data pertaining to a student's interactions in social media, only the data that is relevant to their completion of our learning activities. Eventually we will let students nominate a set of channels that they would <i>personally</i> like to collect data about. (It is on the roadmap, we just don't have the resources yet.. if you want to set something like this up then please get in touch!)
+</p>
+<h2>How does it work?</h2>
+<p>
+	Sudent's sign up to data harvesting for specified social media, and only for specific activities. Thus, we harvest data that relates to a Twitter hashtag, or a Facebook group, and the before a teacher can link this data to specific students, students will need to reveal a relevant social media username to their instructor. This preserves student privacy, giving them a level of control over what data is gathered about them. Dashboards have been created for both students and instructors, and enable students to explore information about their social network, the content that they are discussing, and their overall activity within the system. More tools will become available as the CLA toolkit develops.
 </p>
 <p>
 	We harvest data using standard social media APIs, and currently have tools that collect data for:
 	<dl>
 		<dt>Twitter</dt> Students sign up to having their data harvested for a specific Twitter hashtag related to a learning activity. Then their tweets to this hashtag will be captured by the CLA toolkit.
 		<dt>Facebook</dt> Students sign up to having their data harvested for a specific Facebook group where they will be meeting online as a part of their learning.
+		<dt>Youtube</dt> Students provide access to a google account and we then harvest data about the comments that they leave in videos that are listed in a specific Youtube Channel. 
+		<dt>Wordpress</dt> We can kind of collect posts to a specific Wordpress set up (see this <a href="http://www.beyondlms.org/blog/09/11/2015/TrialsUI/">blog post</a>). This tool is in progress for more general circulation. 
 	</dl>	   
 	These tools are due to be rolled out at QUT with a couple of trial classes starting in late July 2015 - watch this space! (We will <a href="/archive.html">blog</a> about this as we go.)
 </p>
@@ -52,7 +58,7 @@ description: ""
 		<dt>Google+</dt>
 		<dt>StackExchange</dt>
 		<dt>Google Docs</dt>
-		<dt>RSS feeds (i.e. blogs)</dt>
+		<dt>RSS feeds (i.e. blogs, Wordpress discussions more generally, etc.)</dt>
 	</dl>
 	but other tools are possible too. We will update this list as everything develops.
 </p>
