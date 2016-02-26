@@ -5,10 +5,49 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://beyondlms.org</link>
         <link>http://beyondlms.org</link>
-        <lastBuildDate>2015-11-26T06:02:20+10:00</lastBuildDate>
-        <pubDate>2015-11-26T06:02:20+10:00</pubDate>
+        <lastBuildDate>2016-02-26T21:50:06+10:00</lastBuildDate>
+        <pubDate>2016-02-26T21:50:06+10:00</pubDate>
         <ttl>1800</ttl>
 
+
+        <item>
+                <title>Excited about Data Interoperability</title>
+                <description>
+
+&lt;h6&gt;
+	Kirsty Kitto
+&lt;/h6&gt;
+
+&lt;p&gt;	
+	Ok, I will admit it. I am a bit excited. I think that the next few months could prove to be a bit of a turning point, in a number of different ways. Lots of stuff is happening, and a lot of it could prove to be very important when we look back... 
+&lt;/p&gt;
+&lt;p&gt;
+	I am writing this post while sitting on a plane that is heading back from the US. I had a busy couple of days there, an &lt;a href=&quot;http://connectionsforum.com/get-involved/&quot;&gt;xAPI Camp&lt;/a&gt;  at Autodesk in San Franscisco, followed by our first DISC meeting, held at UpToAllofUs, an event organised by Aaron and Megan of &lt;a href=&quot;http://makingbetter.us/&quot;&gt;MakingBetter&lt;/a&gt;. 
+&lt;/p&gt;
+&lt;h4&gt;xAPI Camp - Autodesk&lt;/h4&gt;
+&lt;p&gt;
+	Check out the information about the event &lt;a href=&quot;http://connectionsforum.com/autodesk-san-francisco-february-2016/&quot;&gt;here&lt;/a&gt;. Slides are available now, but they filmed it, so all the talks should go up at some point. This was my first xAPI Camp in the flesh, and it was great to put faces to the names of some of the xAPI community. Australia can be a long way from everywhere, and it is pretty easy for us to miss out on what is going on, although sometimes this can be an opportunity, as it can stop us from getting stuck in the same rut as everyone else. (I remember reading a spiel by &lt;a href=&quot;https://en.wikipedia.org/wiki/Per_Bak&quot;&gt;Per Bak&lt;/a&gt; in &lt;i&gt;How Nature Works&lt;/i&gt; about how being isolated in Denmark gave him the room to develop Self-Organised Criticality - I guess being a long way away is both a blessing and a curse). So, what kinds of things were on the agenda? Learning. This event had a really nice shift in emphasis towards how we might use xAPI to help people to become better people, to learn better, to use their own data to enable life-long learning.. and so to Learning Analytics. Looks like there is a lot of good technical work in the pipeline too - Security, Linked Data, Profiles.. the spec is really moving forwards. 
+&lt;/p&gt;
+&lt;p&gt;
+	One thing that I was particularly taken by was a short presentation by Russell Duhon about the xAPI Vocabulary Specification that is under development. This is a really important step forward for xAPI - we really need to start thinking more about data interoperatiblity, as it will not help having LRSs that can talk to each other if the data they are sharing uses different vocabularies and data structures. In fact this was the subject of my presentation too :) What really caught my eye is that the spec is using Linked Data, which is something we actually suggested xAPI needs in &lt;a href=&quot;/assets/papers/xapiAnalytics.pdf&quot;&gt;a new paper&lt;/a&gt; that will come out for &lt;a href=&quot;http://lak16.solaresearch.org/&quot;&gt;LAK&#39;16&lt;/a&gt;. We were writing that paper about the time that the first draft of the &lt;a href=&quot;https://adl.gitbooks.io/companion-specification-for-xapi-vocabularies/content/&quot;&gt;specification&lt;/a&gt; got released! (Remember what I said about isolation? Sometimes it pays to show up to the party in the flesh :) So, this is something that I am going to be trying to find out a lot more about over the next few months as it is definitely going to help me with some plans I have forming... If you want to find out more about this very important work then my advice is for you to start with the &lt;a href=&quot;https://adl.gitbooks.io/experience-xapi-vocabulary-primer/content/&quot;&gt;primer&lt;/a&gt; as it has a lot more details about why the idea is important and how it might be used. 
+&lt;/p&gt;
+
+&lt;h4&gt;DISC - the way forward for xAPI&lt;/h4&gt;
+&lt;p&gt;
+	After way too many drinks, and a mammoth karaoke session (not something I ever thought I would have to own up to) we headed to Sonoma county for &lt;a href=&quot;http://uptoallof.us/&quot;&gt;UpToAllofUs&lt;/a&gt;, an event which included the inagural DISC board of directors meeting among a whole heap of other interesting discussions and shennanigans. As discussed by Aaron Silvers in &lt;a href=&quot;http://xapiquarterly.com/2015/09/the-way-of-xapis-consortium/&quot;&gt;this article&lt;/a&gt; DISC (The Data Interoperability Sandards Consortium) will take key responsibility for xAPI as ADL releases it to the EdTech space under an Apache license. DISC will be what we as a community make it, and consequently, so will xAPI - it will be essential that we all get involved in driving forwards with what we want xAPI to be and where we want it to go. The goal of DISC will be to facilitate those efforts, and to ensure that we do indeed finally end up with an educational data standard that enables things like &lt;a href=&quot;http://www.elearnspace.org/blog/2016/02/23/open-learning-analytics-again/&quot;&gt;open learning analytics&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/DataPortability&quot;&gt;data portability&lt;/a&gt;, and in my ideal world &lt;a href=&quot;http://www.laceproject.eu/blog/towards-a-manifesto-for-data-ownership/&quot;&gt;lifelong data ownership&lt;/a&gt;. I got to sit in on that inaugural meeting, because I somehow ended up on the board! Gosh - it is a pretty amazing crew (Aaron Silvers, Megan Bowe, Brenda Sanderson, Eric Nerlich, Robert Todd, and me), and I am still finding it hard to believe that I am a part of it. An interesting aside: did you notice that DISC has equal male/female representation? For a board, (let alone a board that is concerned with tech) I consider that an amazing achievement.. what a spec to be involved with :) Watch this space, and if you want to keep in touch then you could start by following the &lt;a href=&quot;https://twitter.com/datainterop&quot;&gt;DISC twitter account&lt;/a&gt;. More details will emerge as we go.
+&lt;/p&gt;
+
+&lt;h4&gt;And there&#39;s more to come!&lt;/h4&gt;
+&lt;p&gt;
+	Finally, I just got a whole heap of travel approved. In a week I will be heading down to Adelaide for a Learning Analytics meetup. Going to be drinking lots of coffee (and hopefully beer, wine, etc.) while plotting the next steps for a whole heap of projects with a bunch of excellent people, many of whom are working on the CLA toolkit with me. Then, after I get back to Brisbane it is off to the UK, for &lt;a href=&quot;http://oer16.oerconf.org/&quot;&gt;OER&#39;16&lt;/a&gt;, &lt;a href=&quot;http://connectionsforum.com/jisc-london-422/&quot;&gt;xAPI Camp Jisc&lt;/a&gt;, the &lt;a href=&quot;http://lak16.solaresearch.org/?page_id=204&quot;&gt;LAK&#39;16 hackathon&lt;/a&gt; and finally &lt;a href=&quot;http://lak16.solaresearch.org/&quot;&gt;LAK&#39;16&lt;/a&gt; itself. I reckon that lots of important things are going to start moving there... I will keep you in the loop if I find some time to write it all down - or you could just show up and join in :)
+&lt;/p&gt;
+
+
+</description>
+                <link>http://beyondlms.org/blog/17/02/2016/excited</link>
+                <guid>http://beyondlms.org/blog/17/02/2016/excited</guid>
+                <pubDate>2016-02-17T00:00:00+10:00</pubDate>
+        </item>
 
         <item>
                 <title>Down and Dirty with Data for SLA - Part 2</title>
@@ -19,7 +58,7 @@
 &lt;/h6&gt;
 
 &lt;p&gt;	
-	This blog post is the second of two aimed at people attending &lt;a href=&quot;https://www.itl.usyd.edu.au/analytics/alasi.htm&quot;&gt;ALASI 2015&lt;/a&gt;. Check out the &lt;a href=&quot;http://www.beyondlms.org/blog/18/11/2015/ALASI15Part1/&quot;&gt;first post&lt;/a&gt;, which has some pre-workshop preparation, and most importantly &lt;b&gt;gives you some discussions about how to create an account in the CLA toolkit. 
+	This blog post is the second of two aimed at people attending &lt;a href=&quot;https://www.itl.usyd.edu.au/analytics/alasi.htm&quot;&gt;ALASI 2015&lt;/a&gt;. Check out the &lt;a href=&quot;http://www.beyondlms.org/blog/18/11/2015/ALASI15Part1/&quot;&gt;first post&lt;/a&gt;, which has some pre-workshop preparation, and most importantly &lt;b&gt;gives you some instructions about how to create an account in the CLA toolkit. 
 &lt;/p&gt;
 &lt;p&gt;
 	 If you are interested in participating in the workshop from beyond ALASI&#39;15 then you are welcome, follow the specific instructions below. 
@@ -339,7 +378,7 @@ This workshop has two objectives.
 	Kirsty Kitto
 &lt;/h6&gt;
 
-	In [my last blog](/blog/18/05/2015/UTSworkshop) &lt;a href=&quot;http://users.on.net/~kirsty.kitto/&quot;&gt;I&lt;/a&gt; wrote about moving the LA conversation towards a more complex form of analytics. I claimed that I had some pretty good ideas about how to jumpstart the conversation into a position where people really start imagining what is possible.. beyond simple counts and the identification of at risk students.  On 2nd July we held our second workshop, this time at QUT. Here is a photo of Mandy Lupton presenting about halfway through the workshop.
+	In &lt;a href=&quot;http://www.beyondlms.org/blog/18/05/2015/UTSworkshop/&quot;&gt;my last blog&lt;/a&gt;, &lt;a href=&quot;http://users.on.net/~kirsty.kitto/&quot;&gt;I&lt;/a&gt; wrote about moving the LA conversation towards a more complex form of analytics. I claimed that I had some pretty good ideas about how to jumpstart the conversation into a position where people really start imagining what is possible.. beyond simple counts and the identification of at risk students.  On 2nd July we held our second workshop, this time at QUT. Here is a photo of Mandy Lupton presenting about halfway through the workshop.
 	&lt;img src=&quot;/assets/images/QUT-workshop.jpg&quot; alt=&quot;QUT workshop&quot; width=&#39;635&#39; border=&quot;5&quot;&gt;
 
 &lt;p&gt;

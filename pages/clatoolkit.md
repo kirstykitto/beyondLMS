@@ -68,7 +68,14 @@ description: ""
 </p>
 <h2>Publications</h2>
 <ul>
-	<li> K. Kitto, S. Cross, Z. Waters & M. Lupton. <a href="http://dl.acm.org/citation.cfm?id=2723627">Learning Analytics beyond the LMS: the Connected Learning Analytics Toolkit</a>.  In Proceedings of the Fifth International Conference on Learning Analytics And Knowledge (LAK '15).  ACM, New York, NY, USA, 11-15. (See the free eprint <a href="http://eprints.qut.edu.au/81343/">here</a>.)
+	<li> 
+		K. Kitto, S. Cross, Z. Waters & M. Lupton. (2015) <a href="http://dl.acm.org/citation.cfm?id=2723627">Learning Analytics beyond the LMS: the Connected Learning Analytics Toolkit</a>.  In Proceedings of the Fifth International Conference on Learning Analytics And Knowledge (LAK '15).  ACM, New York, NY, USA, 11-15. (See the free eprint <a href="../assets/papers/claToolkit-Short.pdf">here</a>.)
+	</li>
+	<li>
+		A. Bakharia, K. Kitto, A. Pardo, D. Gasevic,  & S. Dawson. (In Press) Recipe for Success — Lessons Learnt from Using xAPI within the Connected Learning Analytics Toolkit. In, In 6th International Learning Analytics and Knowledge (LAK) Conference, 25-29 April 2016, Edinburgh, UK.  (See the free eprint <a href="../assets/papers/xapiAnalytics.pdf">here</a>.)
+	</li>
+	<li>
+		K. Kitto, A. Bakharia, M. Lupton, D. Mallet, J. Banks, P. Bruza, A. Pardo, S. Buckingham Shum, S. Dawson, D. Gasevic, G. Siemens,  & G. Lynch (In Press) The Connected Learning Analytics toolkit. In 6th International Learning Analytics and Knowledge (LAK) Conference, 25-29 April 2016, Edinburgh, UK. (See the free eprint <a href="../assets/papers/CLAdemo.pdf">here</a>.)
 	</li>
 </ul>
 
