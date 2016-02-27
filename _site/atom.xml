@@ -4,7 +4,7 @@
  <title>Beyond LMS</title>
  <link href="http://beyondlms.org/" rel="self"/>
  <link href="http://beyondlms.org"/>
- <updated>2016-02-26T21:50:06+10:00</updated>
+ <updated>2016-02-27T10:22:13+10:00</updated>
  <id>http://beyondlms.org</id>
  <author>
    <name>Beyond LMS</name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Excited about Data Interoperability</title>
-   <link href="http://beyondlms.org/blog/17/02/2016/excited"/>
+   <link href="http://beyondlms.org/blog/17/02/2016/excited/"/>
    <updated>2016-02-17T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/17/02/2016/excited</id>
    <content type="html">
@@ -53,7 +53,7 @@
  
  <entry>
    <title>Down and Dirty with Data for SLA - Part 2</title>
-   <link href="http://beyondlms.org/blog/26/11/2015/ALASI15Part2"/>
+   <link href="http://beyondlms.org/blog/26/11/2015/ALASI15Part2/"/>
    <updated>2015-11-26T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/26/11/2015/ALASI15Part2</id>
    <content type="html">
@@ -104,7 +104,7 @@ You can go to &lt;a href=&quot;http://clatoolkit.beyondlms.org/&quot;&gt;this li
  
  <entry>
    <title>Down and Dirty with Data for SLA - Part 1</title>
-   <link href="http://beyondlms.org/blog/18/11/2015/ALASI15Part1"/>
+   <link href="http://beyondlms.org/blog/18/11/2015/ALASI15Part1/"/>
    <updated>2015-11-18T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/18/11/2015/ALASI15Part1</id>
    <content type="html">
@@ -192,7 +192,7 @@ This workshop has two objectives.
  
  <entry>
    <title>Trialling the CLAToolkit - Dashboards and Adventures with IFN614</title>
-   <link href="http://beyondlms.org/blog/09/11/2015/TrialsUI"/>
+   <link href="http://beyondlms.org/blog/09/11/2015/TrialsUI/"/>
    <updated>2015-11-09T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/09/11/2015/TrialsUI</id>
    <content type="html">
@@ -265,7 +265,7 @@ This workshop has two objectives.
  
  <entry>
    <title>xAPI Analytics - Stepping out of the LRS (Part 1)</title>
-   <link href="http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS"/>
+   <link href="http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS/"/>
    <updated>2015-07-27T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS</id>
    <content type="html">
@@ -297,7 +297,7 @@ This workshop has two objectives.
  
  <entry>
    <title>xAPI Camp</title>
-   <link href="http://beyondlms.org/blog/21/07/2015/xAPICamp"/>
+   <link href="http://beyondlms.org/blog/21/07/2015/xAPICamp/"/>
    <updated>2015-07-21T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/21/07/2015/xAPICamp</id>
    <content type="html">
@@ -335,7 +335,7 @@ This workshop has two objectives.
  
  <entry>
    <title>How should we teach in the wild? (Infrastructure and Swiss Wanderwegs)</title>
-   <link href="http://beyondlms.org/blog/18/07/2015/wanderweg"/>
+   <link href="http://beyondlms.org/blog/18/07/2015/wanderweg/"/>
    <updated>2015-07-18T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/18/07/2015/wanderweg</id>
    <content type="html">
@@ -375,7 +375,7 @@ This workshop has two objectives.
  
  <entry>
    <title>QUT Workshop - Sign-up and requirements elicitation</title>
-   <link href="http://beyondlms.org/blog/02/07/2015/QUTworkshop"/>
+   <link href="http://beyondlms.org/blog/02/07/2015/QUTworkshop/"/>
    <updated>2015-07-02T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/02/07/2015/QUTworkshop</id>
    <content type="html">
@@ -424,7 +424,7 @@ This workshop has two objectives.
  
  <entry>
    <title>UTS Workshop: From Data to Visualisation</title>
-   <link href="http://beyondlms.org/blog/18/05/2015/UTSworkshop"/>
+   <link href="http://beyondlms.org/blog/18/05/2015/UTSworkshop/"/>
    <updated>2015-05-18T00:00:00+10:00</updated>
    <id>http://beyondlms.org/blog/18/05/2015/UTSworkshop</id>
    <content type="html">

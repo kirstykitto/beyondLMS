@@ -5,8 +5,8 @@
         <description>Beyond LMS - Beyond LMS</description>
         <link>http://beyondlms.org</link>
         <link>http://beyondlms.org</link>
-        <lastBuildDate>2016-02-26T21:50:06+10:00</lastBuildDate>
-        <pubDate>2016-02-26T21:50:06+10:00</pubDate>
+        <lastBuildDate>2016-02-27T10:22:13+10:00</lastBuildDate>
+        <pubDate>2016-02-27T10:22:13+10:00</pubDate>
         <ttl>1800</ttl>
 
 
@@ -44,7 +44,7 @@
 
 
 </description>
-                <link>http://beyondlms.org/blog/17/02/2016/excited</link>
+                <link>http://beyondlms.org/blog/17/02/2016/excited/</link>
                 <guid>http://beyondlms.org/blog/17/02/2016/excited</guid>
                 <pubDate>2016-02-17T00:00:00+10:00</pubDate>
         </item>
@@ -95,7 +95,7 @@ You can go to &lt;a href=&quot;http://clatoolkit.beyondlms.org/&quot;&gt;this li
 
 
 </description>
-                <link>http://beyondlms.org/blog/26/11/2015/ALASI15Part2</link>
+                <link>http://beyondlms.org/blog/26/11/2015/ALASI15Part2/</link>
                 <guid>http://beyondlms.org/blog/26/11/2015/ALASI15Part2</guid>
                 <pubDate>2015-11-26T00:00:00+10:00</pubDate>
         </item>
@@ -183,7 +183,7 @@ This workshop has two objectives.
 
 
 </description>
-                <link>http://beyondlms.org/blog/18/11/2015/ALASI15Part1</link>
+                <link>http://beyondlms.org/blog/18/11/2015/ALASI15Part1/</link>
                 <guid>http://beyondlms.org/blog/18/11/2015/ALASI15Part1</guid>
                 <pubDate>2015-11-18T00:00:00+10:00</pubDate>
         </item>
@@ -256,7 +256,7 @@ This workshop has two objectives.
 
 
 </description>
-                <link>http://beyondlms.org/blog/09/11/2015/TrialsUI</link>
+                <link>http://beyondlms.org/blog/09/11/2015/TrialsUI/</link>
                 <guid>http://beyondlms.org/blog/09/11/2015/TrialsUI</guid>
                 <pubDate>2015-11-09T00:00:00+10:00</pubDate>
         </item>
@@ -288,7 +288,7 @@ This workshop has two objectives.
 		In Part 3, xAPI statements will be stored in &lt;a href=&quot;https://www.elastic.co/products/elasticsearch&quot;&gt;ElasticSearch&lt;/a&gt; with a dashboard provided by &lt;a href=&quot;https://www.elastic.co/products/kibana&quot;&gt;Kibana&lt;/a&gt;. ElasticSearch and Kibana are used extensively for log file processing.
 	&lt;/p&gt;
 </description>
-                <link>http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS</link>
+                <link>http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS/</link>
                 <guid>http://beyondlms.org/blog/27/07/2015/xAPISteppingOutoftheLRS</guid>
                 <pubDate>2015-07-27T00:00:00+10:00</pubDate>
         </item>
@@ -326,7 +326,7 @@ This workshop has two objectives.
 
 
 </description>
-                <link>http://beyondlms.org/blog/21/07/2015/xAPICamp</link>
+                <link>http://beyondlms.org/blog/21/07/2015/xAPICamp/</link>
                 <guid>http://beyondlms.org/blog/21/07/2015/xAPICamp</guid>
                 <pubDate>2015-07-21T00:00:00+10:00</pubDate>
         </item>
@@ -366,7 +366,7 @@ This workshop has two objectives.
 
 
 </description>
-                <link>http://beyondlms.org/blog/18/07/2015/wanderweg</link>
+                <link>http://beyondlms.org/blog/18/07/2015/wanderweg/</link>
                 <guid>http://beyondlms.org/blog/18/07/2015/wanderweg</guid>
                 <pubDate>2015-07-18T00:00:00+10:00</pubDate>
         </item>
@@ -415,7 +415,7 @@ This workshop has two objectives.
 
 
 </description>
-                <link>http://beyondlms.org/blog/02/07/2015/QUTworkshop</link>
+                <link>http://beyondlms.org/blog/02/07/2015/QUTworkshop/</link>
                 <guid>http://beyondlms.org/blog/02/07/2015/QUTworkshop</guid>
                 <pubDate>2015-07-02T00:00:00+10:00</pubDate>
         </item>
@@ -525,7 +525,7 @@ This workshop has two objectives.
 
 
 </description>
-                <link>http://beyondlms.org/blog/18/05/2015/UTSworkshop</link>
+                <link>http://beyondlms.org/blog/18/05/2015/UTSworkshop/</link>
                 <guid>http://beyondlms.org/blog/18/05/2015/UTSworkshop</guid>
                 <pubDate>2015-05-18T00:00:00+10:00</pubDate>
         </item>
