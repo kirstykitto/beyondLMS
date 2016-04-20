@@ -2,6 +2,9 @@
   <!--
   - Dynamically set liquid variables for working with URLs/paths
   -->
+<!--trying to fix site after the Jekyll 3.0 upgrade -->
+{% capture ASSET_PATH %}{{ BASE_PATH }}/assets/themes/{{ site.JB.THEME }}{% endcapture %}
+
   {% include JB/is_production %}
   {% if site.JB.setup.provider == "custom" %}
     {% include custom/setup %}

@@ -32,6 +32,9 @@ production_url : http://beyondlms.org
 JB :
   version : 0.3.0
 
+  #trying to get back themes after the Jekyll 3 upgrade disaster that broke the site
+  THEME : bootstrap-3
+
   # All links will be namespaced by BASE_PATH if defined.
   # Links in your website should always be prefixed with {{BASE_PATH}}
   # however this value will be dynamically changed depending on your deployment situation.
@@ -67,7 +70,7 @@ JB :
   #ASSET_PATH : false
   #trying to fix the broken CSS in the blog after GitHub pages upgraded to Jekyll 3.0 in Jan 2016
   #ASSET_PATH : /assets/themes/bootstrap-3/css
-  ASSET_PATH : /assets/themes/bootstrap-3
+  ASSET_PATH : /assets/themes/twitter
 
   # These paths are to the main pages Jekyll-Bootstrap ships with.
   # Some JB helpers refer to these paths; change them here if needed.
